@@ -1,2 +1,9 @@
 # paper-implementation-template
-Template repo
+A PyTorch implementation of "{}" by {}
+
+[Paper]() </br>
+[Dataset]()
+
+Sample outputs after brief training:
+```
+```
